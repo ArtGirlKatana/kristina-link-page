@@ -1,0 +1,29 @@
+СПИСОК ССЫЛОК
+
+Уже вставлены:
+Behance:
+https://www.behance.net/472c4f3f
+
+LinkedIn:
+https://www.linkedin.com/in/kristina-konovalova-68b51a43a
+
+Нужно заменить вручную в index.html:
+
+Instagram:
+замени href="#" у кнопки Instagram на свою ссылку.
+
+Telegram:
+замени href="#" у кнопки Telegram на свою ссылку.
+
+Email:
+замени example@email.com в двух местах:
+1) href="mailto:example@email.com"
+2) Сотрудничество: example@email.com
+
+Фото:
+положи рядом с index.html и styles.css файл с названием:
+profile-photo.jpg
+
+Именно это фото используется:
+1) как круглый аватар;
+2) как размытый фон страницы.
